@@ -1,10 +1,10 @@
 # README
 
 *Included files:*
-ultimate.R // full analysis for flowFISH bins
-intersect.R // intersects replicates
-power.R // power calculations
-accuracy.R // accuracy calculations
+1) ultimate.R // full analysis for flowFISH bins
+2) intersect.R // intersects replicates
+3) power.R // power calculations
+4) accuracy.R // accuracy calculations
 
 
 To run analysis:
